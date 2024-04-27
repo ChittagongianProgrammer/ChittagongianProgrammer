@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ChittagongianProgrammer.<br>- 👀 I’m interested in cyber security.<br>- 🌱 I’m currently focusing on Python for software engineering purposes so I can transfer these skills into my interests.
+<br>- 👋 Hi, I’m @ChittagongianProgrammer.<br>- 👀 I’m interested in a few fields in technology, which are: front-end development, data science and cyber security.<br>- 🌱 I’m currently focusing on Python to get better at data analytics.
 
 
 # 💻 Tech Stack:
