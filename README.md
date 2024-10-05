@@ -1,5 +1,5 @@
 # About Me:
-<br>- Hi, I’m @ChittagongianProgrammer.<br>- I’m interested in a few fields in technology, which are: front-end development, data science and cyber security.<br>- I’m currently focusing on Python and R to get better at data analytics. <br>- I am completing a Udemy web development bootcamp as well to work on front-end development to try and make a web development business on the side.
+<br>- Hi, I’m @ChittagongianProgrammer.<br>- I’m interested in a few fields in technology, which are: front-end development, data science and cyber security.<br>- I’m currently focusing on Python to become a suitable candidate for either a data analyst role or a cybersecurity role. <br>- I am completing a web development bootcamp as well to work on front-end development so I can understand how full-stack engineering works from my own experience rather than learning only back-end or front-end.
 
 
 # 💻 Tech Stack:
